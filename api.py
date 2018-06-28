@@ -6,14 +6,9 @@ from tkinter import Tk
 from tkinter import messagebox
 from tkinter import filedialog
 from validate_email import validate_email
-# import config
 
 root = Tk()
 root.withdraw()
-
-# ***********************
-# Please enter your api key in config.py for custom ascess
-# ***********************
 
 def options():
     global apiKey
