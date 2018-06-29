@@ -1,11 +1,11 @@
 # Python Scripts
-Scripts that run on command line of Windows and Terminal of Mac OS and Linux.
+Scripts that run on command line of Windows and Terminal of Mac OS and Linux. Tested in Python 3.6.5.
 
 # About
 Provided a list of valid email of people. This application will create a csv file containing each of their fullname and linkedin url along with the email.
 
 # Requirements
-1. fullcontact api key
+1. fullcontact api key: 
 Visit https://www.fullcontact.com/pricing-plans/ and create an account. After registering and veriying account, generate a fullcontact API key. This key will be asked at the beginning of the program execution.
 2. Input a csv file containing just one column named Email and rows containing the emails of people whom you want to get the details of.
 Here the input file is named emails.csv.
