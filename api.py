@@ -49,7 +49,6 @@ def writeIntoFile(email, fullname, link):
 
 # Extract the fullname and linkedin url from json returned by api
 def fullcontact(apiKey, email):
-
     fullname = "Not Found"
     linkedinLink = "Not Found"
 
